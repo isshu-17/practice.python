@@ -20,3 +20,5 @@ num1 = 54
 num2 = 24
 
 print("The L.C.M. is", compute_lcm(num1, num2))
+
+printf("the l.c.m is ");
